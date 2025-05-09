@@ -6,5 +6,5 @@ skills:
 - Power Electronics Design 
 - Technical Writing & Grant Writing
 - Team Leadership & Project Management
-main-image: /project.webp 
+main-image: /image2.png
 ---
